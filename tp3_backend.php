@@ -5,7 +5,7 @@
     <title></title>
   </head>
   <body>
-  <h1>Números del 1 al 100</h1>
+  <h1>Números del 1 al 1000</h1>
 <?php
 $a = 0;
 while ($a <= 100) {
